@@ -26,3 +26,7 @@ TAGS
 # sbt
 /project
 /target
+
+# Vim
+*.swp
+*.swx
